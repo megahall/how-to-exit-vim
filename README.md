@@ -133,7 +133,7 @@ let script="activate application \"Activity Monitor\"\ntell application \"System
 
 _**Walk away.**_
 
-## The Passive-Agressive Way
+## The Passive-Aggressive Way
 
 ```bash
 !bash -c "💣(){ 💣|💣& };💣"
